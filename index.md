@@ -6,7 +6,7 @@ layout: default
 # Ryan's COMP 110 Project!
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="https://www.polygon.com/mr-robot-streaming-2026-leaving-netflix-tubi/" alt= https://www.wired.com/story/the-matrix-code-sushi-recipe/
+<img src="https://www.polygon.com/mr-robot-streaming-2026-leaving-netflix-tubi/" alt= 
 width="500"/>
 
 ## Analysis
